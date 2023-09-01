@@ -17,13 +17,14 @@
 .navcontainertwo {
     height: 70px;
     background-color: white;
+    display: flex;
 }
 
 .navcontainertwo > h1 {
-    font-size: 40px;
+    font-size: 45px;
     font-family: sans-serif;
     margin-left: 85px;
-    padding: 13px;
+    padding: 8px;
     color: #952323;
 }
 
@@ -137,6 +138,37 @@ li {
   }
 
   */
+
+/* .navcontainertwobutton {
+  height: 10px;
+  width: 60px;
+  padding: 25px;
+  background-color:#952323; 
+} */
+
+/* .navcontainertwobutton {
+  background-color: aqua;
+  margin-left: 500px;
+} */
+
+.navcontainertwobutton > button {
+  height: 40px;
+  width: 100px;
+  margin: 15px;
+  margin-left: 950px;
+  font-size: 15px;
+  color:#952323;
+  /* color: black; */
+  /* background-color:#952323; */
+  /* background-color: #D8D9DA; */
+  border: 2px solid #952323;
+  background-color: white;
+  border-radius: 20px;
+}
+
+/* .navcontainertwobutton > i {
+  
+} */
 
 
 
