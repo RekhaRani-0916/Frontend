@@ -151,7 +151,7 @@ li {
   margin-left: 500px;
 } */
 
-.navcontainertwobutton > button {
+.navcontainertwobutton > a > button {
   height: 40px;
   width: 100px;
   margin: 15px;
