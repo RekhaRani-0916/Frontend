@@ -19,7 +19,7 @@ body {
 .first {
     height: 700px;
     width: 800px;
-    background-color:antiquewhite;
+    background-color:white;
     text-align: center;
     
 }
@@ -27,7 +27,7 @@ body {
 .second {
     height: 700px;
     width: 400px;
-    background-color:cadetblue;
+    background-color:#952323;
     text-align: center;
 }
 
@@ -68,7 +68,7 @@ input[type=email] {
     width: 40%;
     padding: 10px 0;
     margin: 7px 0;
-    border: 1px solid ghostwhite;
+    border: 1px solid grey;
     border-radius: 15px;
     box-sizing: border-box;
     /* background-color: #F4EEEE; */
@@ -78,7 +78,7 @@ input[type=password] {
     width: 40%;
     padding: 10px 0;
     margin: 7px 0;
-    border: 1px solid ghostwhite;
+    border: 1px solid grey;
     border-radius: 15px;
     box-sizing: border-box;
     /* background-color: #F4EEEE; */
@@ -96,24 +96,24 @@ input[type="password"]{
 
 #signinbutton {
     height: 40px;
-    width: 140px;
+    width: 120px;
     margin: 15px;
-    background-color:cadetblue;
-    border: none;
+    background-color:white;
+    border: 1px solid #952323;
     border-radius: 20px;
     font-size: 13px;
-    color:aliceblue;
+    color:#952323;
 }
 
 #signupbutton {
     height: 40px;
-    width: 140px;
+    width: 120px;
     margin: 15px;
     background-color:white;
-    border: none;
+    border: 2px solid #952323;
     border-radius: 20px;
     font-size: 13px;
-    color:black;
+    color: #952323;
 }
 
 .socials {
