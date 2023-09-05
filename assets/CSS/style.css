@@ -170,11 +170,16 @@ li {
   
 } */
 
-.news {
+.news1 {
   /* height:700px; */
   /* width:1000px; */
   display:flex;
   /* background-color: crimson; */
+  gap: 50px;
+}
+
+.news2 {
+  display: flex;
   gap: 50px;
 }
 
@@ -198,6 +203,31 @@ li {
 }
 
 .three {
+  height: 300px;
+  width: 350px;
+  background-color:#9BA4B5;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.four {
+  height: 300px;
+  width: 350px;
+  background-color: #9BA4B5;
+  margin-left: 40px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.five {
+  height: 300px;
+  width: 350px;
+  background-color:#D8D9DA;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.six {
   height: 300px;
   width: 350px;
   background-color:#9BA4B5;
@@ -237,6 +267,41 @@ li {
   border-radius: 20px;
   text-align: center;
 }
+
+.fourshort {
+  height: 150px;
+  width: 327px;
+  background-color:darkslateblue;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.fiveshort {
+  height: 150px;
+  width: 327px;
+  background-color:darkslateblue;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.sixshort {
+  height: 150px;
+  width: 327px;
+  background-color:darkslateblue;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+
 
 img {
   height: 150px;
