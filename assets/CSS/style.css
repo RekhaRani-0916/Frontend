@@ -204,16 +204,16 @@ li {
 }
 
 .three {
-  height: 300px;
-  width: 350px;
+  height: 280px;
+  width: 330px;
   background-color:#D8D9DA;
   margin-top: 50px;
   /* border-radius: 20px; */
 }
 
 .four {
-  height: 300px;
-  width: 350px;
+  height: 280px;
+  width: 330px;
   background-color:#D8D9DA;
   margin-left: 40px;
   margin-top: 50px;
@@ -221,16 +221,16 @@ li {
 }
 
 .five {
-  height: 300px;
-  width: 350px;
+  height: 280px;
+  width: 330px;
   background-color:#D8D9DA;
   margin-top: 50px;
   /* border-radius: 20px; */
 }
 
 .six {
-  height: 300px;
-  width: 350px;
+  height: 280px;
+  width: 330px;
   background-color:#D8D9DA;
   margin-top: 50px;
   /* border-radius: 20px; */
@@ -261,9 +261,9 @@ li {
 .threeshort {
   height: 150px;
   width: 327px;
-  background-color:darkslateblue;
-  margin-top: 10px;
-  margin-left: 10px;
+  /* background-color:darkslateblue; */
+  margin-top: 20px;
+  margin-left: 5px;
   margin-right: 10px;
   /* border-radius: 20px; */
   text-align: center;
@@ -272,9 +272,9 @@ li {
 .fourshort {
   height: 150px;
   width: 327px;
-  background-color:darkslateblue;
-  margin-top: 10px;
-  margin-left: 10px;
+  /* background-color:darkslateblue; */
+  margin-top: 20px;
+  margin-left: 5px;
   margin-right: 10px;
   /* border-radius: 20px; */
   text-align: center;
@@ -283,9 +283,9 @@ li {
 .fiveshort {
   height: 150px;
   width: 327px;
-  background-color:darkslateblue;
-  margin-top: 10px;
-  margin-left: 10px;
+  /* background-color:darkslateblue; */
+  margin-top: 20px;
+  margin-left: 5px;
   margin-right: 10px;
   /* border-radius: 20px; */
   text-align: center;
@@ -294,9 +294,9 @@ li {
 .sixshort {
   height: 150px;
   width: 327px;
-  background-color:darkslateblue;
-  margin-top: 10px;
-  margin-left: 10px;
+  /* background-color:darkslateblue; */
+  margin-top: 20px;
+  margin-left: 5px;
   margin-right: 10px;
   /* border-radius: 20px; */
   text-align: center;
